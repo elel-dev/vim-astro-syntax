@@ -21,7 +21,7 @@ After the plugin:
 
 ## Disclaimer
 
-I don't have much experience on [n]vim plugins (especially after Vim 9.0); for now, this plugin represent mainly a quick personal workaround:VsCode was the only solution, but after `vim-astro-syntax` [n]vim is actually usable.
+I don't have much experience on [n]vim plugins (especially after Vim 9.0); for now, this plugin represent mainly a quick personal workaround: VsCode was the only solution, but after `vim-astro-syntax` [n]vim is actually usable.
 
 ## License
 
